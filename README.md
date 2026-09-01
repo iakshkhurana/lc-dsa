@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/iakshkhurana/lc-dsa/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/iakshkhurana/lc-dsa/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/iakshkhurana/lc-dsa/tree/master/0200-number-of-islands) |
+| [0518-coin-change-ii](https://github.com/iakshkhurana/lc-dsa/tree/master/0518-coin-change-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -56,8 +57,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/iakshkhurana/lc-dsa/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/iakshkhurana/lc-dsa/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/iakshkhurana/lc-dsa/tree/master/0198-house-robber) |
+| [0518-coin-change-ii](https://github.com/iakshkhurana/lc-dsa/tree/master/0518-coin-change-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/iakshkhurana/lc-dsa/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/iakshkhurana/lc-dsa/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/iakshkhurana/lc-dsa/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
