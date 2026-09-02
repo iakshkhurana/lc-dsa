@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/iakshkhurana/lc-dsa/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/iakshkhurana/lc-dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/iakshkhurana/lc-dsa/tree/master/0064-minimum-path-sum) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iakshkhurana/lc-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/iakshkhurana/lc-dsa/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/iakshkhurana/lc-dsa/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/iakshkhurana/lc-dsa/tree/master/0300-longest-increasing-subsequence) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/iakshkhurana/lc-dsa/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/iakshkhurana/lc-dsa/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/iakshkhurana/lc-dsa/tree/master/0072-edit-distance) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iakshkhurana/lc-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/iakshkhurana/lc-dsa/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/iakshkhurana/lc-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0518-coin-change-ii](https://github.com/iakshkhurana/lc-dsa/tree/master/0518-coin-change-ii) |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/iakshkhurana/lc-dsa/tree/master/1143-longest-common-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iakshkhurana/lc-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
