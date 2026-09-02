@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/iakshkhurana/lc-dsa/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/iakshkhurana/lc-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0518-coin-change-ii](https://github.com/iakshkhurana/lc-dsa/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/iakshkhurana/lc-dsa/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -86,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/iakshkhurana/lc-dsa/tree/master/0300-longest-increasing-subsequence) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/iakshkhurana/lc-dsa/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/iakshkhurana/lc-dsa/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
