@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/iakshkhurana/lc-dsa/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/iakshkhurana/lc-dsa/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/iakshkhurana/lc-dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/iakshkhurana/lc-dsa/tree/master/0064-minimum-path-sum) |
@@ -121,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/iakshkhurana/lc-dsa/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/iakshkhurana/lc-dsa/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/iakshkhurana/lc-dsa/tree/master/1757-recyclable-and-low-fat-products) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/iakshkhurana/lc-dsa/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/iakshkhurana/lc-dsa/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
