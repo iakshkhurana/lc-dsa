@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/iakshkhurana/lc-dsa/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/iakshkhurana/lc-dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/iakshkhurana/lc-dsa/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/iakshkhurana/lc-dsa/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iakshkhurana/lc-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/iakshkhurana/lc-dsa/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/iakshkhurana/lc-dsa/tree/master/0198-house-robber) |
@@ -131,9 +132,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/iakshkhurana/lc-dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/iakshkhurana/lc-dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/iakshkhurana/lc-dsa/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/iakshkhurana/lc-dsa/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/iakshkhurana/lc-dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/iakshkhurana/lc-dsa/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/iakshkhurana/lc-dsa/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/iakshkhurana/lc-dsa/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/iakshkhurana/lc-dsa/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
