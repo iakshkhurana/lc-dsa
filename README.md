@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/iakshkhurana/lc-dsa/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/iakshkhurana/lc-dsa/tree/master/0125-valid-palindrome) |
 | [1143-longest-common-subsequence](https://github.com/iakshkhurana/lc-dsa/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/iakshkhurana/lc-dsa/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/iakshkhurana/lc-dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/iakshkhurana/lc-dsa/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/iakshkhurana/lc-dsa/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
