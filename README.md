@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/iakshkhurana/lc-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/iakshkhurana/lc-dsa/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/iakshkhurana/lc-dsa/tree/master/1143-longest-common-subsequence) |
+| [2129-capitalize-the-title](https://github.com/iakshkhurana/lc-dsa/tree/master/2129-capitalize-the-title) |
 ## Longest Common Subsequence
 |  |
 | ------- |
