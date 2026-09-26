@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/iakshkhurana/lc-dsa/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/iakshkhurana/lc-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/iakshkhurana/lc-dsa/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/iakshkhurana/lc-dsa/tree/master/1143-longest-common-subsequence) |
 | [2129-capitalize-the-title](https://github.com/iakshkhurana/lc-dsa/tree/master/2129-capitalize-the-title) |
 ## Longest Common Subsequence
@@ -181,10 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/1021-remove-outermost-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
