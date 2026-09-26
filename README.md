@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/iakshkhurana/lc-dsa/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/iakshkhurana/lc-dsa/tree/master/1143-longest-common-subsequence) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2129-capitalize-the-title](https://github.com/iakshkhurana/lc-dsa/tree/master/2129-capitalize-the-title) |
 ## Longest Common Subsequence
 |  |
@@ -183,11 +184,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
