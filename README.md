@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/iakshkhurana/lc-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/iakshkhurana/lc-dsa/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/iakshkhurana/lc-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0541-reverse-string-ii](https://github.com/iakshkhurana/lc-dsa/tree/master/0541-reverse-string-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/iakshkhurana/lc-dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0796-rotate-string](https://github.com/iakshkhurana/lc-dsa/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/1021-remove-outermost-parentheses) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/iakshkhurana/lc-dsa/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/iakshkhurana/lc-dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/iakshkhurana/lc-dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0541-reverse-string-ii](https://github.com/iakshkhurana/lc-dsa/tree/master/0541-reverse-string-ii) |
 ## Sorting
 |  |
 | ------- |
