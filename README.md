@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/iakshkhurana/lc-dsa/tree/master/0070-climbing-stairs) |
+| [3099-harshad-number](https://github.com/iakshkhurana/lc-dsa/tree/master/3099-harshad-number) |
 ## Dynamic Programming
 |  |
 | ------- |
