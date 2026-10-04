@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/iakshkhurana/lc-dsa/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/iakshkhurana/lc-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0518-coin-change-ii](https://github.com/iakshkhurana/lc-dsa/tree/master/0518-coin-change-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/iakshkhurana/lc-dsa/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Matrix
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/iakshkhurana/lc-dsa/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/iakshkhurana/lc-dsa/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/iakshkhurana/lc-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/iakshkhurana/lc-dsa/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Quicksort
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/iakshkhurana/lc-dsa/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/iakshkhurana/lc-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/iakshkhurana/lc-dsa/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Stack
 |  |
 | ------- |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/iakshkhurana/lc-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/iakshkhurana/lc-dsa/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/iakshkhurana/lc-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/iakshkhurana/lc-dsa/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Linked List
 |  |
 | ------- |
@@ -217,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/iakshkhurana/lc-dsa/tree/master/0206-reverse-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/iakshkhurana/lc-dsa/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/iakshkhurana/lc-dsa/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
