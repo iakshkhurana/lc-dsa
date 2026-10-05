@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/iakshkhurana/lc-dsa/tree/master/0541-reverse-string-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/iakshkhurana/lc-dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0796-rotate-string](https://github.com/iakshkhurana/lc-dsa/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/iakshkhurana/lc-dsa/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -192,12 +193,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
