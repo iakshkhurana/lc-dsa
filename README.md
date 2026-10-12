@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/iakshkhurana/lc-dsa/tree/master/0070-climbing-stairs) |
+| [1360-number-of-days-between-two-dates](https://github.com/iakshkhurana/lc-dsa/tree/master/1360-number-of-days-between-two-dates) |
 | [3099-harshad-number](https://github.com/iakshkhurana/lc-dsa/tree/master/3099-harshad-number) |
 ## Dynamic Programming
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/iakshkhurana/lc-dsa/tree/master/1143-longest-common-subsequence) |
+| [1360-number-of-days-between-two-dates](https://github.com/iakshkhurana/lc-dsa/tree/master/1360-number-of-days-between-two-dates) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2129-capitalize-the-title](https://github.com/iakshkhurana/lc-dsa/tree/master/2129-capitalize-the-title) |
 ## Longest Common Subsequence
