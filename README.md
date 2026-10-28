@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/iakshkhurana/lc-dsa/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/iakshkhurana/lc-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0518-coin-change-ii](https://github.com/iakshkhurana/lc-dsa/tree/master/0518-coin-change-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/iakshkhurana/lc-dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/iakshkhurana/lc-dsa/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Matrix
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/iakshkhurana/lc-dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/iakshkhurana/lc-dsa/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/iakshkhurana/lc-dsa/tree/master/0200-number-of-islands) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/iakshkhurana/lc-dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/iakshkhurana/lc-dsa/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/iakshkhurana/lc-dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/iakshkhurana/lc-dsa/tree/master/1143-longest-common-subsequence) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/iakshkhurana/lc-dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
@@ -235,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/iakshkhurana/lc-dsa/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/iakshkhurana/lc-dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
