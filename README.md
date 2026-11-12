@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/iakshkhurana/lc-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/iakshkhurana/lc-dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0518-coin-change-ii](https://github.com/iakshkhurana/lc-dsa/tree/master/0518-coin-change-ii) |
+| [0704-binary-search](https://github.com/iakshkhurana/lc-dsa/tree/master/0704-binary-search) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/iakshkhurana/lc-dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/iakshkhurana/lc-dsa/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Matrix
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/iakshkhurana/lc-dsa/tree/master/0300-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/iakshkhurana/lc-dsa/tree/master/0704-binary-search) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
