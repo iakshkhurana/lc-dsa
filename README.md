@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/iakshkhurana/lc-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/iakshkhurana/lc-dsa/tree/master/0541-reverse-string-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/iakshkhurana/lc-dsa/tree/master/0583-delete-operation-for-two-strings) |
+| [0771-jewels-and-stones](https://github.com/iakshkhurana/lc-dsa/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/iakshkhurana/lc-dsa/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/iakshkhurana/lc-dsa/tree/master/1021-remove-outermost-parentheses) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/iakshkhurana/lc-dsa/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/iakshkhurana/lc-dsa/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/iakshkhurana/lc-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0771-jewels-and-stones](https://github.com/iakshkhurana/lc-dsa/tree/master/0771-jewels-and-stones) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/iakshkhurana/lc-dsa/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Stack
 |  |
