@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/iakshkhurana/lc-dsa/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/iakshkhurana/lc-dsa/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/iakshkhurana/lc-dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1360-number-of-days-between-two-dates](https://github.com/iakshkhurana/lc-dsa/tree/master/1360-number-of-days-between-two-dates) |
 | [3099-harshad-number](https://github.com/iakshkhurana/lc-dsa/tree/master/3099-harshad-number) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/iakshkhurana/lc-dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/iakshkhurana/lc-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/iakshkhurana/lc-dsa/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/iakshkhurana/lc-dsa/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/iakshkhurana/lc-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/iakshkhurana/lc-dsa/tree/master/0541-reverse-string-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/iakshkhurana/lc-dsa/tree/master/0583-delete-operation-for-two-strings) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/iakshkhurana/lc-dsa/tree/master/0412-fizz-buzz) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/iakshkhurana/lc-dsa/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Ordered Set
 |  |
